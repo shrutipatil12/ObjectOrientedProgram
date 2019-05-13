@@ -1,0 +1,19 @@
+{
+    "Stock": [
+        {
+            "stock_name": "Bajaj",
+            "Num_of_shares": 189,
+            "share_price": 567
+        },
+        {
+            "stock_name": "Baroda",
+            "Num_of_shares": 2532,
+            "share_price": 832
+        },
+        {
+            "stock_name": "Birla",
+            "Num_of_shares": 1023,
+            "share_price": 534
+        }
+    ]
+}
